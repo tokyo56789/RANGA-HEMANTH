@@ -39,7 +39,7 @@ Social engineering defense strategies
 
 
 ## Certifications
-
+https://beacon.paloaltonetworks.com/student/collection/666206/path/1670215/activity/1670084
 </div>
 
 ## Projects
